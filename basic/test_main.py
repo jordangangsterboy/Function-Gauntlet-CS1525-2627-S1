@@ -1,6 +1,6 @@
 import pytest
 
-from main import (
+from advanced.main import (
     is_even,
     count_vowels,
     celsius_to_fahrenheit,
